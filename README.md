@@ -8,7 +8,8 @@
 ## 🚀 我的项目
 
 ### 🔥 核心项目  
-[![hvhone](https://img.shields.io/badge/CSGO%20Server-1771005798-orange?style=flat-square&logo=hvhone)](https://hvh.one)
+[![hvhone](https://img.shields.io/badge/CSGO%20Server-HVH.ONE-orange?style=flat-square&logo=hvhone)](https://hvh.one)
+
 一个很不错的CSGO对战平台
 `Web3` `Node.js` `CSGO` `HVH` `1V1` 
 
