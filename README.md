@@ -9,7 +9,7 @@
 
 ### 🔥 核心项目  
 **[HVH.ONE](https://hvh.one)**  
-一个很不错的CSGO对战 
+一个很不错的CSGO对战平台
 `Web3` `Node.js` `CSGO`
 
 ---
@@ -43,7 +43,7 @@
 
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:1771005798@qq.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/evanfu08)
-[![QQ](https://img.shields.io/badge/QQ-123456789-blue?style=flat-square&logo=tencent-qq)](https://qm.qq.com/q/kxVBvansQM)
+[![QQ](https://img.shields.io/badge/QQ-1771005798-blue?style=flat-square&logo=tencent-qq)](https://qm.qq.com/q/kxVBvansQM)
 [![Bilibili](https://img.shields.io/badge/-B站-FB7299?logo=bilibili&logoColor=white)](https://space.bilibili.com/480455454)
 [![Blog](https://img.shields.io/badge/-Blog-FF5722?logo=blogger&logoColor=white)](https://evanfu.xyz)
 
@@ -53,7 +53,7 @@
 
 ## 💡 最近在忙什么
 
-- 🔭 正在开发 **[HVH.one](https://hvh.one)** 
+- 🔭 正在开发 **[HVH.ONE/CSGO服务器插件](https://hvh.one)** 
 - 🌱 学习 **Web3** 中
 
 ---
