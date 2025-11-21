@@ -1,7 +1,7 @@
 # 你好，我是 Evan Fu 👋  
 **AKA 可乐** · 学习中的小白&沉迷CS 
 
-![Banner](https://hvh.one/assets/csgo.jpg)
+![Banner](http://114.66.27.10:3000/assets/cs2.jpg)
 
 ---
 
